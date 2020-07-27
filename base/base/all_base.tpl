@@ -21,7 +21,7 @@ Proxy Group: ~
 Rule: ~
 {% endif %}
 
-{% endif %}
+
 {% if request.target == "surge" %}
 
 [General]
